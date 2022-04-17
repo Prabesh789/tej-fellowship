@@ -1,0 +1,28 @@
+.center {
+    color: black;
+    background-color: #00FFFF;
+    text-align: center;
+    width: 45vh;
+    height: 30vh;
+    margin: 0 auto;
+    border-radius: 12px;
+}
+
+h1 {
+    color: red;
+    padding-top: 30px;
+}
+
+#result {
+    background-color: white;
+    padding-top: 1px;
+    padding-left: 6px;
+    padding-bottom: 2px;
+    padding-right: 6px;
+}
+
+#description1,
+#currentNum,
+#result {
+    font-weight: 800;
+}
